@@ -35,9 +35,5 @@
 	<!-- Hornpipe -->
 	<active id="7" name="Hornpipe" description="Sorrowful lament" gfx="hornpipe.png" tags="offensive" quality="3" maxcharges="3" b95mix1credit="john sorrow"/>
 	<!-- Dad's Savings -->
-    <passive id="8" quality="2" name="Dad's Savings" description="Might be cheaper to just die" tags="offensive" gfx="dads_savings.png" devilprice="1" craftquality="2" b95mix1credit="chuzzin + kattack"/>
-	
-    <null name="Red Chip" persistent="true"/>
-    <null name="Green Chip" persistent="true"/>
-    <null name="Black Chip" persistent="true"/>
+    <passive id="8" quality="2" name="Dad's Savings" description="Might be cheaper to just die" tags="offensive lazarusshared" gfx="dads_savings.png" devilprice="1" craftquality="2" b95mix1credit="chuzzin + kattack"/>
 </items>

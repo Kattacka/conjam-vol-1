@@ -9,6 +9,7 @@
 	</Pool>
 	<Pool Name="shop">
 		<Item Name="Bucket of Boots" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Dad's Savings" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 	</Pool>
 	<Pool Name="angel">
 		<Item Name="Holy Hamsa" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
@@ -24,6 +25,7 @@
 		<Item Name="Mega Dice" Weight="0.1" DecreaseBy="0.1" RemoveOn="0.01"/>
 		<Item Name="Bucket of Boots" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<Item Name="Hornpipe" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Dad's Savings" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 	</Pool>
 	<Pool Name="greedAngel">
 		<Item Name="Holy Hamsa" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
@@ -47,8 +49,12 @@
 		<Item Name="Mega Dice" Weight="1" DecreaseBy="0.1" RemoveOn="0.1"/>
 		<Item Name="Strange Mask"/>
 		<Item Name="Hexagonal Core" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Dad's Savings" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 	</Pool>
     <Pool Name="bombBum">
 		<Item Name="Glitched Miner" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
     </Pool>
+	<Pool Name="oldChest">
+		<Item Name="Dad's Savings" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
 </ItemPools>

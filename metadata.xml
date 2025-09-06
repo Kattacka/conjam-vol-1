@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>ItemJam Vol. 1</name>
+    <directory>modjam-vol-1</directory>
+    <id>3555278833</id>
+    <description>[h1] ! REPENTOGON IS REQUIRED ! [/h1]
+
+[h2] 9 New Items! [/h2]
+ModJam was a contest hosted by me, ConBoi, to challenge people to make a singular new item over the course of a week. I was able to get 9 submissions by the following talented people:
+
+Glitched Miner - Monwil
+Mega Dice - Foks
+Holy Hamsa - Stale
+Floast Hat - Kerkel, Split
+Strange Mask - Spoop
+Hexagonal Core - Aeronaut, Truji
+Bucket Of Boots - 4Head, Skulldier
+Dad's Savings - Kattack, Chuz
+Hornpipe - John Sorrow
+
+Special thanks to Kerkel for compiling all of the mods into one big modpack.</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Graphics"/>
+</metadata>

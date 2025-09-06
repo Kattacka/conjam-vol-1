@@ -1,0 +1,32 @@
+<sounds root="/">
+	<!-- Mega Dice -->
+	<sound name="Cinematic Boom">
+		<sample path="megadice/resources/sfx/sound_cinematicboom.wav" weight="1"/>
+	</sound>
+	<!-- Bucket of Boots -->
+	<sound name="Boot Pawn Step">
+		<sample weight="1" path="bucketofboots/resources/sfx/pawn_step.wav" />
+	</sound>
+	<sound name="Boot Queen Step">
+		<sample weight="1" path="bucketofboots/resources/sfx/queen_step.wav" />
+	</sound>
+	<sound name="Boot Rook Step">
+		<sample weight="1" path="bucketofboots/resources/sfx/rook_step_1.wav" />
+		<sample weight="1" path="bucketofboots/resources/sfx/rook_step_2.wav" />
+	</sound>
+	<sound name="hexagonal_core_jingle">
+		<sample weight="1" path="hexagonalcore/resources/sfx/hexagonal_core_jingle.wav" />
+	</sound>
+	<!-- Hornpipe -->
+	<sound name="Hornpipe">
+		<sample path="hornpipe/resources/sfx/hornpipe1.wav" weight="1"/>
+		<sample path="hornpipe/resources/sfx/hornpipe2.wav" weight="1"/>
+	</sound>
+	<!-- Dad's Savings -->
+	<sound name="Poker Chip Drop">
+		<sample weight="1" path="dadssavings/resources/sfx/chip_drop.wav" />
+	</sound>
+    <sound name="Poker Chip Collect">
+		<sample weight="1" path="dadssavings/resources/sfx/chip_collect.wav" />
+	</sound>
+</sounds>

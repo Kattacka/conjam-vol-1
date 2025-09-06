@@ -1,0 +1,12 @@
+<costumes anm2root="/">
+	<!-- Holy Hamsa -->
+	<costume anm2path="holyhamsa/resources/gfx/characters/c_HolyHamsa.anm2" type="passive" priority="1" id="0"/>
+	<!-- Glitched Miner -->
+	<costume id="1" anm2path="glitchedminer/resources/gfx/characters/glitched_miner_costume.anm2" type="passive" hasSkinAlt="true" />
+	<!-- Floast Hat -->
+	<costume id="3" anm2path="floasthat/resources/gfx/costume_floasthat.anm2" type="passive" priority="99"/>
+	<!-- Bucket of Boots -->
+	<costume anm2path="bucketofboots/resources/gfx/characters/costume_bucket_of_boots.anm2" id="4" type="passive" priority="99" overwriteColor="true" forceBodyColor="true" forceHeadColor="true" skinColor="0" />
+	<!-- Strange Mask -->
+	<costume id="5" anm2path="strangemask/resources/gfx/characters/costume_misk.anm2" type="passive" priority="1"/>
+</costumes>

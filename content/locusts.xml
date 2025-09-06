@@ -1,0 +1,12 @@
+<locusts gfxroot="gfx/familiar/locusts/">
+	<!--
+		Color presets
+	-->
+	<color name="default" />
+	<color name="fly_black" r="255" g="255" b="255"/>
+	<color name="fly_red" r="768" g="512" b="512" or="0" og="-255" ob="-255"/>
+	<color name="fly_white" r="768" g="768" b="768"/>
+
+	<locust id="6" color="fly_red" backGfx="spark.png" backColor="fly_white" />
+	<locust id="1" gfx="anm2=locust_glitch.anm2" locustFlags2="1" procChance="0.3" />
+</locusts>

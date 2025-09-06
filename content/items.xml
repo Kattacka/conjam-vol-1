@@ -1,0 +1,43 @@
+<items gfxroot="b95mix/resources/gfx/" version="1" deathanm2="gfx/deathitems.anm2">
+	<!-- Holy Hamsa -->
+	<passive name="Holy Hamsa" description="Hands-on Approach" gfx="collectible_Hamsa.png" quality="4" id="0"  devilprice="2" b95mix1credit="stale"/>
+	<!-- Glitched Miner -->
+	<passive id="1" name="Glitched Miner" description="Error ore" gfx="glitched_miner.png" bombs="10"
+		quality="2" tags="summonable offensive" b95mix1credit="monwil"
+	/>
+	<!-- Mega Dice -->
+	<active name="Mega Dice" description="Roll big!" id="2" 
+		gfx="collectible_megadice.png" 
+		
+		maxcharges="6" 
+		
+		quality="3" 
+		craftquality="3" 
+		tags="nolostbr"
+		b95mix1credit="foks"/>
+	<!-- Floast Hat -->
+	<passive id="3" name="Floast Hat" description="Floating blast resistance" gfx="floasthat.png" cache="flying" tags="summonable" quality="3" b95mix1credit="split + kerkel"/>
+    <!-- Bucket of Boots -->
+	<active name="Bucket of Boots" description="Try this drip out!" quality="1" craftquality="1"
+        maxcharges="300" chargetype="timed" id="4" gfx="collectible_bucket_of_shoes.png" addcostumeonpickup="true" shopprice="10"
+    tags="offensive" b95mix1credit="4head + skulldier" /> 
+	<!-- Strange Mask -->
+    <passive id="5" name="Strange Mask"
+        description="DMG down + poison tears"
+        gfx="misk.png"
+        quality="3"
+        tags="offensive summonable"
+        cache="damage tearflag"
+		b95mix1credit="spoop"
+    />
+	<!-- Hexagonal Core -->
+	<passive id="6" cache="" name="Hexagonal Core" description="Power of six" gfx="hexagonal_core_placeholder.png" quality="3" craftquality="3" tags="summonable offensive" b95mix1credit="aeronaut"/>
+	<!-- Hornpipe -->
+	<active id="7" name="Hornpipe" description="Sorrowful lament" gfx="hornpipe.png" tags="offensive" quality="3" maxcharges="3" b95mix1credit="john sorrow"/>
+	<!-- Dad's Savings -->
+    <passive id="8" quality="2" name="Dad's Savings" description="Might be cheaper to just die" tags="offensive" gfx="dads_savings.png" devilprice="1" craftquality="2" b95mix1credit="chuzzin + kattack"/>
+	
+    <null name="Red Chip" persistent="true"/>
+    <null name="Green Chip" persistent="true"/>
+    <null name="Black Chip" persistent="true"/>
+</items>

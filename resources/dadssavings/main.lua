@@ -179,7 +179,7 @@ function mod:SlotCollision(slot, player)
     player = player:ToPlayer()
     ---@cast player EntityPlayer
     if not PlayerManager.AnyoneHasCollectible(DADS_SAVINGS) then return end
-    if getChipCount() <= -10000 then return end
+    if getChipCount() <= 0 then return end
 
     if slot:GetState() ~= 1 then return end
 
